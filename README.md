@@ -28,7 +28,7 @@ You can access the live application [here](https://online-voting-system-two.verc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/online-voting-system.git
+   git clone https://github.com/KumaranKratos/online-voting-system.git
    cd online-voting-system
    ```
 2. Install the dependencies:
